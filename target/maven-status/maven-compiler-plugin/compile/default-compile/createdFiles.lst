@@ -1,0 +1,13 @@
+com\mycompany\reseller\entities\Order.class
+com\mycompany\reseller\entities\User.class
+com\mycompany\reseller\servlets\ProductOperationServlet.class
+com\mycompany\reseller\entities\Product.class
+com\mycompany\reseller\dao\CategoryDao.class
+com\mycompany\reseller\dao\ProductDao.class
+com\mycompany\reseller\helper\Desc.class
+com\mycompany\reseller\helper\FactoryProvider.class
+com\mycompany\reseller\servlets\LogoutServlet.class
+com\mycompany\reseller\servlets\RegisterServlet.class
+com\mycompany\reseller\servlets\LoginServlet.class
+com\mycompany\reseller\entities\Category.class
+com\mycompany\reseller\dao\UserDao.class
