@@ -40,7 +40,7 @@ Also, I have tried to maintain a good visual experience by using some of the fro
 
 ## References
 
-UI of the ecommerce website [Flipkart](flipkart.com) for the frontend and some online resources for images.
+UI of the ecommerce website [Flipkart](https://www.flipkart.com) for the frontend and some online resources for images.
 
 [Back To The Top](#getithere-ecommerce-website)
 
